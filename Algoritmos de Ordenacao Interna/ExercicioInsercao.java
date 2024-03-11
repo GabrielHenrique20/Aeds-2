@@ -1,3 +1,7 @@
+// Agora é sua vez!! Implemente o algoritmo de Inserção para ordenar um vetor com 100 valores inteiros aleatórios. 
+// Além disso, compute também a quantidade de comparações para essa tarefa com a adição de contadores em seu código.
+
+
 import java.util.Random;
 
 public class ExercicioInsercao {
